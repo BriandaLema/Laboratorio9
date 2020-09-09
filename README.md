@@ -5,20 +5,20 @@ TEMA: AMPLIFICADOR OPERACIONAL
 
 **1,1.- GENERAL** 
 
-* Analizar experimentalmente el Teorema de Thévenin en un circuito resistivo.
+* Analizar experimentalmente el comportamiento de un amplificación operacional.
 
 **1,2.-ESPECÍFICOS**
 
-* Comprobar un circuito de corriente directa mediante la aplicación del Teorema de Thevenin .
+*  Analizar algunas aplicaciones básicas con el amplificador operacional.
 
-* Verificar la manera de medir la resistencia y voltaje Thevenin de un circuito.
+* Verificar el principio de funcionamiento de un amplificador operacional.
 
-* Reducir y solucionar un circuito mediante el Teorema de Thévenin.
+* Familiarizarse con el uso de instrumentos de medida.
 
 
 ## 2. PLANTEAMIENTO DEL PROBLEMA
 
-Este proyecto consistió en la implementación de un circuito mixto lineal, en un programa online denominado Tinkercad con la finalidad de experimentarel análisis mediante el Teorema de Thévenin. Se crea el circuito utilizando resistencias en serie y paralelo conectadas a fuentes variables, la cuál es la característica principal para poder utilizar el Teorema de superposición como un método de solución factible.
+Este proyecto consistió en la implementación de un circuito eléctrico, en un programa online denominado Tinkercad con la finalidad de experimentar el comportamiento y la actuación de un amplificador operacional. Se crea el circuito utilizando resistencias y capacitores, conectadas a fuentes variables, fuentes directas y a un amplificador operacional, el cuál es el principal para este laboratorio como se menciono anteriormente.
 
 
 ## 3. MARCO TEÓRICO 
@@ -65,9 +65,10 @@ Se simula el circuito con el amplificador operacional LM339, con generador de se
 Variables eléctricas: 
 
 * Voltaje
-* Corriente 
-* Resistores
 
+* Corriente 
+
+* Funciones dadas por el osciloscopio 
 
 ## 7. EXPLICACIÓN CÓDIGO DE FUENTE
 
@@ -228,9 +229,9 @@ Para terminar, sugerimos acordarse para calcular el voltaje de una region se le 
 
 ## 12. CRONOGRAMA
 
-![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/CRONOGRAMA%205.png)
+![](https://github.com/BriandaLema/Laboratorio9/blob/master/img/C9.png)
 
-https://trello.com/b/UU1g7qMS/cronograma
+https://trello.com/c/bFvgoEnN/9-edici%C3%B3n-readme
 
 ## 13. BIBLIOGRAFÍA
 
