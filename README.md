@@ -126,7 +126,47 @@ El mismo programa nos guía y asesora acerca de lo que realizamos, por lo cual l
 
 Fundamentalmente los prerrequisitos que requiere este laboratorio sería: un dispositivo tegnológico (sea un teléfono, una pc, un tableta, entre otras); pues trabajamos en un simulador online, nuestro segundo requisito es acceso a internet y finalmente tener conocimientos básicos sobre las leyes aplicadas, los componentes, elementos y variables que se utiliza para la creación y el siguiente análisis del circuito.
 
+## **PREGUNTAS**
 
+1.	Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.
+
+Pueden influir los siguientes parámetros:
+
+*	Tensión de entrada diferencial:  Esta es la tensión máxima que puede aplicarse entre los terminales de entrada sin problemas de corriente.
+
+*	Rango de Temperatura: Es el rango de temperatura en el cual el dispositivo funciona. 
+
+* Tensión de alimentación: Tensión de alimentación máxima que puede aplicarse al amplificador.
+
+* Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
+
+2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
+
+Otros de los amplificadores operacionales más comunes son: Amplificador de instrumentación INA125, OpAmp LM258, Op-Amp MC1741,  TL081 y TL084.
+
+* Amplificador de instrumentación INA125
+
+Este amplificador se alimenta con 12V, se lo utiliza para el manejo de una celda de carga. La ganancia del INA125 puede ser ajustada mediante un potenciómetro conectado a sus terminales. Toca tomar en cuenta que al cambiar la lontigud de las conexiones o alterar la fuente de alimentación puede desconfigurar la ganancia de este amplificador.
+ 
+* OpAmp LM258
+
+Este es un amplificador operacional dual con alta ganancia con compensación de frecuencia. 
+
+* Op-Amp MC1741
+
+Este amplificador operacional fue diseñado para utilizarse como amplificador sumador, integrador y en función del Componentes de retroalimentación.
+
+* TL081
+
+Este amplificador está diseñado con altas velocidades de rotación , baja polarización de entrada y las corrientes compensadas , y bajo coeficiente de temperatura.
+
+* TL084
+
+Este amplificador es de alta velocidad , tiene una entrada de alto voltaje, tiene transistores bipolares, cuenta con una alta velocidad de respuesta,tiene una frecuencia interna de compensación y cuenta con salida de protección contra cortos circuitos.
+
+3.	Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.
+
+El amplificador operacional es un componente fundamental de la instrumentación electrónica moderna. Se utiliza extensamente en muchos dispositivos, junto con resistores y otros elementos pasivos. Entre las numerosas aplicaciones prácticas se encuentran amplificadores para instrumentos, convertidores digitales-analógicos, computadoras analógicas, cambiadores de nivel, filtros, circuitos de calibración, inversores, sumadores, integradores, diferenciadores, restadores, amplificadores logarítmicos, comparadores, elementos rotatorios, osciladores, rectificadores, reguladores, convertidores de tensión a corriente, convertidores de corriente a tensión y recortadores. 
 
 ## 9.APORTACIONES
 
