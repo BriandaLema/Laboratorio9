@@ -82,124 +82,6 @@ El mismo programa nos guía y asesora acerca de lo que realizamos, por lo cual l
 
 Fundamentalmente los prerrequisitos que requiere este laboratorio sería: un dispositivo tegnológico (sea un teléfono, una pc, un tableta, entre otras); pues trabajamos en un simulador online, nuestro segundo requisito es acceso a internet y finalmente tener conocimientos básicos sobre las leyes aplicadas, los componentes, elementos y variables que se utiliza para la creación y el siguiente análisis del circuito.
 
-**ANÁLISIS DE RESULTADOS Y CÁLCULO DEL ERROR**
-
-VALORES DEL CIRCUITO EQUIVALENTE DE THÉVENIN
-
-* **VTH (V)**
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-| 5.06 V | 5.0556 V |
-
-* **RTH Ω**
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-| 299 Ω | 298.86 Ω |
-
-COMPROBACIÓN DEL TEOREMA DE THÉVENIN 
-
- * **CIRCUITO ORIGINAL**
-
-* VOLTAJE (V)
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-| 4.22 V | 3.9 V |
-
-* CORRIENTE (mA)
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-|  4.22 mA | 3.9 mA |
-
-* **CIRCUITO EQUIVALENTE DE THÉVENIN**
-
-* VOLTAJE (V)
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-|  3.84 V | 3.89 V |
-
-* CORRIENTE (mA)
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-|  3.84 mA| 3.89 mA  |
-
-- **CÁLCULO DEL ERROR DEL VOLTAJE DE THÉVENIN**
-
-Voltaje calculado= 5.06 V
-
-Voltaje medido= 5.0556 V
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=((5.06 V - 5.0556 V)/ 5.06 V )* 100
-
-%error= 0.087 % 
-
-
-- **CÁLCULO DEL ERROR DE LA RESISTENCIA DE THÉVENIN**
-
-Resistencia calculada= 299 Ω 
-
-Resistencia medida= 298.86 Ω 
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=(( 299 Ω - 298.86 Ω )/ 299 Ω )* 100
-
-%error= 0.047 % 
-
-- **CÁLCULO DEL ERROR DEL VOLTAJE EN R5 EN EL CIRCUITO ORIGINAL**
-
-Voltaje calculado= 4.22 V
-
-Voltaje medido= 3.9 V
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=((4.22 V - 3.9 V)/ 4.22 V)* 100
-
-%error= 7.58 % 
-
-- **CÁLCULO DEL ERROR DE LA CORRIENTE EN R5 EN EL CIRCUITO ORIGINAL**
-
-Corriente calculado= 4.22 mA
-
-Corriente medido= 3.9 mA
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=((4.22 mA - 3.9 mA)/ 4.22 mA)* 100
-
-%error= 7.58 % 
-
-- **CÁLCULO DEL ERROR DEL VOLTAJE EN R5 EN EL CIRCUITO EQUIVALENTE DE THÉVENIN**
-
-Voltaje calculado= 3.84 V
-
-Voltaje medido= 3.89 V
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=(|(3.84 V - 3.89 V)|/ 3.84 V )* 100
-
-%error= 1.30 % 
-
-- **CÁLCULO DEL ERROR DE LA CORRIENTE EN R5 EN EL CIRCUITO EQUIVALENTE DE THÉVENIN**
-
-Voltaje calculado= 3.84 mA
-
-Voltaje medido= 3.89 mA
-
-%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
-
-%error=(|(3.84 mA - 3.89 mA)|/ 3.84 mA )* 100
-
-%error= 1.30 % 
 
 
 ## 9.APORTACIONES
@@ -220,11 +102,11 @@ Con esto se puede concluir, que los datos finales muestran una pequeña diferenc
 
 ## 11. RECOMENDACIONES
 
-Recomendamos que se debe asegurarse de tomar cálculos de una manera clara y ordenada,para asi no equivocarse en el hecho remplazar y tener como consecuencia un % de error excesivo. En este caso especificamente, se debe en tener en cuenta de desconectar las fuentes de poder paso segundo y tercer caso respectivamente.
+Se debe tener en mente, de si se equivoca al traducir el circuito teorico al simulador esto podria causarle problemas en sus calculos, entonces recomendable siempre verificar los valores y cada una de los componentes segun el circuito prestado. 
 
-Se debe tener en mente, de si se equivoca al traducir el circuito teorico al simulador esto podria causarle problemas en sus calculos, entonces recomendable siempre calcular tus datos manualmente y de ahi proceder a ser el circuito simulado.
+Sugerimos que para este laboratorio se realice una previa investigación acerca de los amplificadores operacionales para conocer de manera clara sobre como se realiza la conexión y como actua el amplificador.
 
-Para terminar, sugerimos acordarse para calcular el voltaje de una region se le conecta al circuito directamente y para calcular intensidad se debe tratar al multimetro como un elemento del circuito y conectarle en serie.
+Finalmente se recomienda la correcta conexxión del osciloscopio para tener una buena gráfica de funcion y poder analizarla.
 
 
 ## 12. CRONOGRAMA
@@ -240,9 +122,6 @@ https://trello.com/c/bFvgoEnN/9-edici%C3%B3n-readme
 * XNOMIND. (07 de Noviembre de 2019). Teorema. Obtenido de https://www.teorema.top/teorema-de-thevenin/#Pasos_para_aplicar_el_teorema_de_Thevenin
 
 
-
-## 14.- ANEXOS
-https://github.com/BriandaLema/Laboratorio5/blob/master/Anexos/ANEXOS%20LABORATORIO%205.pdf
 
 
 
