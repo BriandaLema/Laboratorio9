@@ -23,6 +23,45 @@ Este proyecto consistió en la implementación de un circuito eléctrico, en un 
 
 ## 3. MARCO TEÓRICO 
 
+## **AMPLIFICADOR OPERACIONAL** 
+
+Es un circuito integrado que permite crear una gran variedad de circuitos, es utilizado en diversas aplicaciones de la electrónica analógica y digital. Su principal función es amplificar el voltaje, el símbolo de circuitos del amplificador operacional es un triángulo como podemos observar en la siguiente figura: 
+
+
+![](https://github.com/BriandaLema/Laboratorio9/blob/master/img/Amplificador%20operacional.jpg)
+
+El amplificador operacional tiene dos entradas y una salida. Las entradas están marcadas con signo menos y más para especificar las entradas inversora y no inversora, respectivamente. 
+Las fuentes de poder se usan para polarizar al amplificador operacional causando ciertas condiciones para que el amplificador operacional trabaje de forma correcta.
+
+**DIAGRAMA DE UN AMPLIFICADOR OPERACIONAL**
+
+![](https://github.com/BriandaLema/Laboratorio9/blob/master/img/Amplificador2.png)
+
+El amplificador más común es el LM741, éste tiene 8 terminales de conexión y las cinco más importantes son:
+
+1.	Terminal 2: entrada inversora.
+2.	Terminal 3: La entrada no inversora.
+3.	Terminal 6: Salida.
+4.	Terminal 7: Suministro de potencia positivo V+.
+5.	Terminal 4: Suministro de potencia negativo V-.
+
+**TIPOS DE AMPLIFICADORES**
+
+* AMPLIFICADOR OPERACIONAL IDEAL
+Un amplificador operacional  ideal es aquel con ganancia infinita de lazo abierto, resistencia de entrada infinita y resistencia de salida cero.
+
+* AMPLIFICADOR INVERSOR 
+Un amplificador inversor invierte la polaridad de la señal de entrada mientras la amplifica.
+
+* AMPLIFICADOR NO INVERSOR
+Un amplificador no inversor es un circuito de amplificador operacional diseñado para suministrar una ganancia en tensión positiva.
+
+* AMPLIFICADOR SUMADOR
+Un amplificador sumador es un circuito del amplificador operacional que combina varias entradas y produce una salida que es la suma ponderada de las entradas.
+
+* AMPLIFICADOR DE DIFERENCIA 
+Un amplificador de diferencia es un dispositivo que amplifica la diferencia entre dos entradas pero rechaza toda señal común a las dos entradas.
+
 
 
 ## 4. DIAGRAMAS
