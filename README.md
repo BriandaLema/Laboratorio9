@@ -47,14 +47,14 @@ Se simula el circuito con el amplificador operacional LM339, con generador de se
 
 | CANTIDAD| ELEMENTO |
 | ------- | -------------|
-| 2       | Fuente de Voltaje C.D.  |
-| 2       | Multímetros digital  |
-| 1       | Resistor de 560 kΩ   |
-| 1       | Resistor de 4.7 kΩ   |
-| 1       | Resistor de 330 Ω  |
-| 1       | Resistor de 100 Ω|
-| 1       | Resistor de 1 kΩ|
-| 1       | Protoboard                    |
+| 1       | Generador de señales  |
+| 2       | Fuentes de voltaje DC  |
+| 1       | Osciloscopio  |
+| 1       | Protoboard  |
+| 1       | Multímetro  |
+|        | Cables conductores|
+|        | Resistencias, capacitores|
+|     |Amplificadores operacionales|
 
 ## 6. MAPA DE VARIABLES 
 
