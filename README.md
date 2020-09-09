@@ -197,9 +197,15 @@ https://trello.com/c/bFvgoEnN/9-edici%C3%B3n-readme
 
 ## 13. BIBLIOGRAFÍA
 
-* carakenio73. (10 de Noviembre de 2019). dademuchconnection. Obtenido de https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/
+* Alexander, C., & Sadiku, M. (2006). Fundamentos de Circuitos eléctricos. México: McGRAW-HILL/INTERAMERICANA EDITORES, S.A. DE C.V.
 
-* XNOMIND. (07 de Noviembre de 2019). Teorema. Obtenido de https://www.teorema.top/teorema-de-thevenin/#Pasos_para_aplicar_el_teorema_de_Thevenin
+* Dorf, R., & Svoboda, J. (2006). Circuitos Eléctricos. México: ALFAOMEGA GRUPO EDITOR, S.A. DE C.V.
+
+* Mecafenix, I. (19 de Abril de 2017). Ingeniería Mecafenix. Obtenido de https://www.ingmecafenix.com/electronica/amplificador-operacional/
+
+* Torres, H. (21 de Diciembre de 2017). Hetpro. Obtenido de https://hetpro-store.com/TUTORIALES/amplificador-operacional/
+
+
 
 
 
