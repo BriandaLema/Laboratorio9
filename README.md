@@ -27,15 +27,18 @@ Este proyecto consistió en la implementación de un circuito mixto lineal, en u
 
 ## 4. DIAGRAMAS
 
-Se simula un circuito lineal, es un circuito mixto con cuatro resistencias en paralelo y corriente conectadas a dos fuentes de voltaje de corriente directa.
+Se simula el circuito con el amplificador operacional 741, con generador de señales y fuentes DC.
 
-![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/Circuitoo1.jpg)
+![](https://github.com/BriandaLema/Laboratorio9/blob/master/img/D1.png)
 
 
-Comprobación del Teorema de Thévenin
+Se simula el circuito con el amplificador operacional 741, con generador de señales y fuentes DC.
 
-![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/circuito%202.jpg)
+![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/D2.jpg)
 
+Se simula el circuito con el amplificador operacional LM339, con generador de señales y fuentes DC.
+
+![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/D3.jpg)
 
 
 
