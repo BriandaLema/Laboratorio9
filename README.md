@@ -52,9 +52,13 @@ Se simula el circuito con el amplificador operacional LM339, con generador de se
 | 1       | Osciloscopio  |
 | 1       | Protoboard  |
 | 1       | Multímetro  |
-|        | Cables conductores|
-|        | Resistencias, capacitores|
-|     |Amplificadores operacionales|
+|      15  | Cables conductores|
+| 3 | Resistencia de 1kΩ |
+| 1 | Resistencia de 4.3kΩ |
+| 1 | Resistencia de 300Ω |
+| 1 | Resistencia de 200Ω |
+|    1    |  Capacitor de 1µF|
+|   3  |Amplificadores operacionales|
 
 ## 6. MAPA DE VARIABLES 
 
