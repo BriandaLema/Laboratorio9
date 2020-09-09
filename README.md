@@ -34,11 +34,11 @@ Se simula el circuito con el amplificador operacional 741, con generador de señ
 
 Se simula el circuito con el amplificador operacional 741, con generador de señales y fuentes DC.
 
-![](https://github.com/BriandaLema/Laboratorio9/blob/master/img/D2.jpg)
+![](https://github.com/BriandaLema/Laboratorio9/blob/master/img/D2.png)
 
 Se simula el circuito con el amplificador operacional LM339, con generador de señales y fuentes DC.
 
-![](https://github.com/BriandaLema/Laboratorio9/blob/master/img/D3.jpg)
+![](https://github.com/BriandaLema/Laboratorio9/blob/master/img/D3.png)
 
 
 
