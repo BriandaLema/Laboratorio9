@@ -48,18 +48,23 @@ El amplificador más común es el LM741, éste tiene 8 terminales de conexión y
 **TIPOS DE AMPLIFICADORES**
 
 * AMPLIFICADOR OPERACIONAL IDEAL
+
 Un amplificador operacional  ideal es aquel con ganancia infinita de lazo abierto, resistencia de entrada infinita y resistencia de salida cero.
 
 * AMPLIFICADOR INVERSOR 
+
 Un amplificador inversor invierte la polaridad de la señal de entrada mientras la amplifica.
 
 * AMPLIFICADOR NO INVERSOR
+
 Un amplificador no inversor es un circuito de amplificador operacional diseñado para suministrar una ganancia en tensión positiva.
 
 * AMPLIFICADOR SUMADOR
+
 Un amplificador sumador es un circuito del amplificador operacional que combina varias entradas y produce una salida que es la suma ponderada de las entradas.
 
 * AMPLIFICADOR DE DIFERENCIA 
+
 Un amplificador de diferencia es un dispositivo que amplifica la diferencia entre dos entradas pero rechaza toda señal común a las dos entradas.
 
 
