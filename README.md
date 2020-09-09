@@ -138,8 +138,6 @@ Pueden influir los siguientes parámetros:
 
 * Tensión de alimentación: Tensión de alimentación máxima que puede aplicarse al amplificador.
 
-* Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
-
 **2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.**
 
 Otros de los amplificadores operacionales más comunes son: Amplificador de instrumentación INA125, OpAmp LM258, Op-Amp MC1741,  TL081 y TL084.
