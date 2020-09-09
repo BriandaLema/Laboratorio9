@@ -47,12 +47,12 @@ Se simula el circuito con el amplificador operacional LM339, con generador de se
 
 | CANTIDAD| ELEMENTO |
 | ------- | -------------|
-| 1       | Generador de señales  |
-| 2       | Fuentes de voltaje DC  |
-| 1       | Osciloscopio  |
-| 1       | Protoboard  |
-| 1       | Multímetro  |
-|      15  | Cables conductores|
+| 3       | Generador de señales  |
+| 6       | Fuentes de voltaje DC  |
+| 3       | Osciloscopio  |
+| 3       | Protoboard  |
+| 3       | Multímetro  |
+|      45  | Cables conductores|
 | 3 | Resistencia de 1kΩ |
 | 1 | Resistencia de 4.3kΩ |
 | 1 | Resistencia de 300Ω |
