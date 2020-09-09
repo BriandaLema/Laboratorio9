@@ -94,7 +94,7 @@ Se simula el circuito en el programa Multisim con el amplificador operacional 74
 
 Se simula el circuito en el programa Multisim con el amplificador operacional LM339, con generador de señales y fuentes DC.
 
-![](https://github.com/BriandaLema/Laboratorio9/blob/master/img/D6png)
+![](https://github.com/BriandaLema/Laboratorio9/blob/master/img/D6.png)
 
 
 ## 5. LISTA DE COMPONENTES
