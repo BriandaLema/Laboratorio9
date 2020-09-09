@@ -23,7 +23,7 @@ Este proyecto consistió en la implementación de un circuito eléctrico, en un 
 
 ## 3. MARCO TEÓRICO 
 
-## **AMPLIFICADOR OPERACIONAL** 
+### **AMPLIFICADOR OPERACIONAL** 
 
 Es un circuito integrado que permite crear una gran variedad de circuitos, es utilizado en diversas aplicaciones de la electrónica analógica y digital. Su principal función es amplificar el voltaje, el símbolo de circuitos del amplificador operacional es un triángulo como podemos observar en la siguiente figura: 
 
