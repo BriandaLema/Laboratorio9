@@ -90,13 +90,11 @@ Para complementar la correcta cuantificacion de valores calculados y valores med
 
 ## 10. CONCLUSIONES
 
-Por medio de este laboratorio hemos comprobado de una forma tanto teórica como práctica la funcionalidad del teorema de Thévenin el cual es de grna utilidad ya que nos ayuda a reducir un circuito complejo en uno mucho más sencillo para medir corriente o voltaje en algún elemento del circuitos. 
+Por medio de este laboratorio hemos comprobado de una forma tanto teórica como práctica la funcionalidad del amplificador operacional. 
 
-También corroboramos que la resistencia e intensidad calculadas por Thevenin son muy similares a las calculadas mediante las leyes de Kirchhoff.
+ El uso de los amplificadores operacionales en todo sistema es fundamental, así que es importante conocer las configuraciones de las operaciones en los amplificadores. Toda configuración da una salida diferente, por ello es que como ingenieros aprendamos a conocer como pedirle a un amplificador operacional que cumpla con cierta demanda que nosotros requiramos del mismo.
 
-Habiendo simulado y creado el circuito, podemos meditar que aunque hemos calculado los datos de una manera distinta, hemos podido comprobar que este método es valido y muy efectiva para los calculos buscados.
-
-Con esto se puede concluir, que los datos finales muestran una pequeña diferencia entre los valores medidos y calculados, y se podría dar esto de de la differencia por dos razones : al momento de calcular con el multímetro los valores, intervienen las tolerancias de las resistencias, y esto podría afectar a los valores obtenidos; mientras que en los valores medidos tal vez intervenga el hecho que no habiamos usado todos los decimales presentados en la calculadora, la cual aunque poco afecta los valores obtenidos. 
+Este complemento es de suma importancia, ya que es utilizado para elementos eléctricos. Ya sean computadoras, televisores, lavadoras, entre otras. Por que se emplean también en cada una de ellas para su diseño, las operaciones básicas lógicas. Y que sin ellas no tendríamos el avance tecnológico que tenemos hoy en día y que seguiremos disfrutando.
 
 
 
