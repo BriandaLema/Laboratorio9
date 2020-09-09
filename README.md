@@ -126,7 +126,7 @@ El mismo programa nos guía y asesora acerca de lo que realizamos, por lo cual l
 
 Fundamentalmente los prerrequisitos que requiere este laboratorio sería: un dispositivo tegnológico (sea un teléfono, una pc, un tableta, entre otras); pues trabajamos en un simulador online, nuestro segundo requisito es acceso a internet y finalmente tener conocimientos básicos sobre las leyes aplicadas, los componentes, elementos y variables que se utiliza para la creación y el siguiente análisis del circuito.
 
-## **PREGUNTAS**
+### **PREGUNTAS**
 
 **1.	Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.**
 
